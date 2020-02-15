@@ -303,6 +303,7 @@ h3{
 
 .button--cta{
   padding: 1.4rem 4rem;
+  cursor: pointer;
 }
 
 .button--cta:focus{
